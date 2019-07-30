@@ -2,7 +2,7 @@
 
 A basic weather app based on Accuweather Api.
 
-##Flowchart
+>Flowchart
 ```mermaid
 graph LR
 D(User) --> A
