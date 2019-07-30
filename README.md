@@ -2,6 +2,8 @@
 
 A basic weather app based on Accuweather Api.
 
+Live preview available at https://altugozengi.github.io/Weather-App-in-Modern-Javascript/
+
 >Flowchart
 
 	┌──────────────────────────────────────────────────────────┐
